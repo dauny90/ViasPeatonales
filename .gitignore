@@ -5,6 +5,7 @@ data/fiscalizacion.csv
 data/grupoPlanificador.xlsx
 data/reclamos.csv
 data/rus2017.csv
+data/rus_final.csv
 data/.ipynb_checkpoints/fiscalizacion-checkpoint.csv
 data/shp/barrios_WGS84/BARRIOS_WGS84.cpg
 data/shp/barrios_WGS84/BARRIOS_WGS84.csv
@@ -14,5 +15,4 @@ data/shp/barrios_WGS84/BARRIOS_WGS84.qpj
 data/shp/barrios_WGS84/BARRIOS_WGS84.shp
 data/shp/barrios_WGS84/BARRIOS_WGS84.shx
 data/shp/barrios_WGS84/BARRIOS_WGS84.shx
-data/rus_final.csv
 data/
